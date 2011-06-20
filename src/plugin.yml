@@ -1,0 +1,7 @@
+main: me.br_.minecraft.bukkit.tntdetonator.TDMain
+author: BR_
+name: TNTDetonator
+version: 0.1.0
+commands:
+    tnt:
+        usage: This takes no parameters - just use /<command>
